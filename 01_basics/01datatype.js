@@ -16,4 +16,14 @@ let isLoggedIn=true;
 //boolean => true/false
 // null => stand alone value
 //undefined 
-//symbol 
+//symbol => unique
+
+
+
+//object
+
+
+console.log(typeof name);
+console.log(typeof 18);
+console.log(typeof null); // it's type is object
+console.log(typeof undefined);// it's type is undefined
